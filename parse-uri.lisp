@@ -1,4 +1,5 @@
 ;;;   parse-uri.lisp   ;;;
+;;;   Valutazione: 25/30   ;;;
 
 (defparameter next (list))
 (defparameter scheme ())
